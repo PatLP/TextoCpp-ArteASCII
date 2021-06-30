@@ -4,4 +4,4 @@ AyED en C++ con Arte ASCII
 - Una vez generado el texto en ASCII, copiar y pegar en un block de notas.
 - Guardar dentro del proyecto, para posteriormente abrirlo.
 - Se copia en el proyecto.
-- Colocar instrucción para imprimir por pantalla, tener cuidado con los caracteres "\", seleccionar y agregar doble "\\".
+- Colocar instrucción para imprimir por pantalla, tener cuidado con los caracteres "\\", seleccionar y agregar doble "\\\".
